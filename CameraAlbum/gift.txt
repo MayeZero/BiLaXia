@@ -1,0 +1,2 @@
+from god
+to all man

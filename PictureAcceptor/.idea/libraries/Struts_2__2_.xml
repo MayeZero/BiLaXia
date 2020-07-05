@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="Struts 2 (2)" type="struts2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../struts/struts-2.5.22/apps/WEB-INF/lib/commons-lang3-3.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../struts/struts-2.5.22/apps/WEB-INF/lib/jackson-annotations-2.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../struts/struts-2.5.22/apps/WEB-INF/lib/struts2-core-2.5.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../struts/struts-2.5.22/apps/WEB-INF/lib/jackson-module-jaxb-annotations-2.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../struts/struts-2.5.22/apps/WEB-INF/lib/xmlpull-1.1.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../struts/struts-2.5.22/apps/WEB-INF/lib/asm-7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../struts/struts-2.5.22/apps/WEB-INF/lib/log4j-core-2.12.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../struts/struts-2.5.22/apps/WEB-INF/lib/commons-io-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../struts/struts-2.5.22/apps/WEB-INF/lib/asm-tree-7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../struts/struts-2.5.22/apps/WEB-INF/lib/jackson-dataformat-xml-2.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../struts/struts-2.5.22/apps/WEB-INF/lib/log4j-api-2.12.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../struts/struts-2.5.22/apps/WEB-INF/lib/stax2-api-4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../struts/struts-2.5.22/apps/WEB-INF/lib/commons-fileupload-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../struts/struts-2.5.22/apps/WEB-INF/lib/jackson-databind-2.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../struts/struts-2.5.22/apps/WEB-INF/lib/asm-commons-7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../struts/struts-2.5.22/apps/WEB-INF/lib/jakarta.activation-api-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../struts/struts-2.5.22/apps/WEB-INF/lib/woodstox-core-6.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../struts/struts-2.5.22/apps/WEB-INF/lib/jackson-core-2.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../struts/struts-2.5.22/apps/WEB-INF/lib/struts2-convention-plugin-2.5.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../struts/struts-2.5.22/apps/WEB-INF/lib/struts2-config-browser-plugin-2.5.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../struts/struts-2.5.22/apps/WEB-INF/lib/javassist-3.20.0-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../struts/struts-2.5.22/apps/WEB-INF/lib/jakarta.xml.bind-api-2.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../struts/struts-2.5.22/apps/WEB-INF/lib/asm-analysis-7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../struts/struts-2.5.22/apps/WEB-INF/lib/freemarker-2.3.28.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../struts/struts-2.5.22/apps/WEB-INF/lib/ognl-3.1.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../struts/struts-2.5.22/apps/WEB-INF/lib/xstream-1.4.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../struts/struts-2.5.22/apps/WEB-INF/lib/xpp3_min-1.1.4c.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
